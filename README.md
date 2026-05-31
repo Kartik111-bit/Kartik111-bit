@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Kartik111-bit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- My first C Project
-- 
+# Hi, I'm Kartik Emmi 
+
+🎓 B.E. 2nd Year Engineering Student  
+💻 Python | AI | Web Development  
+🚀 Building AI-powered projects and participating in hackathons
+
+🌐 Portfolio: https://kartik-emmi-portfolio.lovable.app
+💼 LinkedIn: https://www.linkedin.com/in/kartik-emmi-637a9532a
+📧 Email: kmemmi05@gmail.com
 
 <!---
 Kartik111-bit/Kartik111-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
